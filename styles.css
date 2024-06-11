@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    margin: 0;
+}
+.bg-grisclaro{
+    background-color:rgb(228, 235, 131);
+}
+form {
+    border: 5px solid #eb6b6b;
+    border-top: none;
+    border-bottom: none; 
+    padding: 20px;
+    max-width: 1295px; 
+    margin: 0 auto; 
+}
+
